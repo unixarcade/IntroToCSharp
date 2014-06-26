@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\ConsoleColor\ConsoleColor\bin\Debug\ConsoleColor.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\ConsoleColor\ConsoleColor\bin\Debug\ConsoleColor.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\ConsoleColor\ConsoleColor\bin\Debug\ConsoleColor.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\ConsoleColor\ConsoleColor\obj\Debug\ConsoleColor.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\ConsoleColor\ConsoleColor\obj\Debug\ConsoleColor.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\ConsoleColor\ConsoleColor\obj\Debug\ConsoleColor.pdb
