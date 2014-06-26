@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Tracert\Tracert\bin\Debug\Tracert.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Tracert\Tracert\obj\Debug\Tracert.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Tracert\Tracert\bin\Debug\Tracert.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Tracert\Tracert\bin\Debug\Tracert.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Tracert\Tracert\obj\Debug\Tracert.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Tracert\Tracert\obj\Debug\Tracert.pdb

@@ -1,0 +1,1 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\DigitCounter\DigitCounter\DigitCounter\bin\Debug\DigitCounter.exe.config

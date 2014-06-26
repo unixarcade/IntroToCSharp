@@ -1,0 +1,2 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Factorial\Factorial\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Factorial\Factorial\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
