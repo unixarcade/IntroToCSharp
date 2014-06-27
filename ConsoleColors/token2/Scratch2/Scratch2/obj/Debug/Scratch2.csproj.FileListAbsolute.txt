@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\token2\Scratch2\Scratch2\bin\Debug\Scratch2.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\token2\Scratch2\Scratch2\bin\Debug\Scratch2.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\token2\Scratch2\Scratch2\bin\Debug\Scratch2.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\token2\Scratch2\Scratch2\obj\Debug\Scratch2.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\token2\Scratch2\Scratch2\obj\Debug\Scratch2.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\token2\Scratch2\Scratch2\obj\Debug\Scratch2.pdb

@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\token2\Scratch Program\Scratch Program\bin\Debug\Scratch Program.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\token2\Scratch Program\Scratch Program\bin\Debug\Scratch Program.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\token2\Scratch Program\Scratch Program\bin\Debug\Scratch Program.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\token2\Scratch Program\Scratch Program\obj\Debug\Scratch Program.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\token2\Scratch Program\Scratch Program\obj\Debug\Scratch Program.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\token2\Scratch Program\Scratch Program\obj\Debug\Scratch Program.pdb

@@ -1,0 +1,2 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Struct\Struct 1\Struct 1\bin\Debug\Struct 1.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Struct\Struct 1\Struct 1\obj\Debug\Struct 1.csprojResolveAssemblyReference.cache
