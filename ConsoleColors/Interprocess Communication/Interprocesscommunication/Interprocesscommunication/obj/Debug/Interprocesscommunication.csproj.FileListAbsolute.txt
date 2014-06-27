@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Interprocess Communication\Interprocesscommunication\Interprocesscommunication\bin\Debug\Interprocesscommunication.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Interprocess Communication\Interprocesscommunication\Interprocesscommunication\bin\Debug\Interprocesscommunication.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Interprocess Communication\Interprocesscommunication\Interprocesscommunication\bin\Debug\Interprocesscommunication.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Interprocess Communication\Interprocesscommunication\Interprocesscommunication\obj\Debug\Interprocesscommunication.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Interprocess Communication\Interprocesscommunication\Interprocesscommunication\obj\Debug\Interprocesscommunication.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Interprocess Communication\Interprocesscommunication\Interprocesscommunication\obj\Debug\Interprocesscommunication.pdb
