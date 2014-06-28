@@ -1,0 +1,2 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\TracertMod\TracertMod\TracertMod\bin\Debug\TracertMod.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\TracertMod\TracertMod\TracertMod\obj\Debug\TracertMod.csprojResolveAssemblyReference.cache

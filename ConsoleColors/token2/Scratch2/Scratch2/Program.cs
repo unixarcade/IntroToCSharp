@@ -21,8 +21,8 @@ namespace Scratch2
             result = lambda(2 * 2);
             Console.WriteLine(result);
             Console.ReadKey();
-        
-        
+
+
         }
     }
 }
