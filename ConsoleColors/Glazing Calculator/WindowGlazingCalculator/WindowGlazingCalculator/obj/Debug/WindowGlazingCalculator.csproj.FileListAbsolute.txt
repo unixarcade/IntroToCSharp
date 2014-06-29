@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Glazing Calculator\WindowGlazingCalculator\WindowGlazingCalculator\bin\Debug\WindowGlazingCalculator.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Glazing Calculator\WindowGlazingCalculator\WindowGlazingCalculator\bin\Debug\WindowGlazingCalculator.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Glazing Calculator\WindowGlazingCalculator\WindowGlazingCalculator\bin\Debug\WindowGlazingCalculator.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Glazing Calculator\WindowGlazingCalculator\WindowGlazingCalculator\obj\Debug\WindowGlazingCalculator.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Glazing Calculator\WindowGlazingCalculator\WindowGlazingCalculator\obj\Debug\WindowGlazingCalculator.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Glazing Calculator\WindowGlazingCalculator\WindowGlazingCalculator\obj\Debug\WindowGlazingCalculator.pdb
