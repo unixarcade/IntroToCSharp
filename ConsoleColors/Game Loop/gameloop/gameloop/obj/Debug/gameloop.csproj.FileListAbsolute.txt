@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Game Loop\gameloop\gameloop\bin\Debug\gameloop.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Game Loop\gameloop\gameloop\obj\Debug\gameloop.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Game Loop\gameloop\gameloop\bin\Debug\gameloop.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Game Loop\gameloop\gameloop\bin\Debug\gameloop.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Game Loop\gameloop\gameloop\obj\Debug\gameloop.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Game Loop\gameloop\gameloop\obj\Debug\gameloop.pdb
