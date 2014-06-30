@@ -32,7 +32,15 @@ namespace Dungeon_Adventure
               string welcometo = " Welcome to the ";
               // Array mycolor = ["Green", "Red", "White", "Blue", "Black"];
               //int colorint = 0;
-              // string thepowerof = "The Power of " + mycolor[] + "Infuses your body." ;
+              // string thepowerof = " The Power of " + mycolor[] + "Infuses your body." ;
+             // string[][]  thepowerof = new string  [" The Power of "],["Green", "Red", "White", "Blue", "Black"];
+              string[][] thepowerof = new string[][]{
+new string[]{" The Power of "},
+new string[]{" Green ", " Red ", " White ", " Blue ", " Black "},
+ new string[]{" mana infuses you. "}             
+              };
+string manasent =" mana infuses you. ";
+string[] mycolor = {" Green ", "Red", "White", "Blue", " Black "};
                switch (adventure)
                {
                    case "FORESTS":
@@ -40,14 +48,15 @@ namespace Dungeon_Adventure
                        Console.BackgroundColor = ConsoleColor.DarkGreen;
                        Console.ForegroundColor = ConsoleColor.White;
                        Console.WriteLine(welcometo +" Forests ");
-                      // Console.WriteLine(thepowerof);
+                      Console.WriteLine(thepowerof[0][0] + mycolor[0]  + manasent);
+                      
                       break;
 
                   case "MOUNTAINS":
                       Console.BackgroundColor = ConsoleColor.DarkRed;
                       Console.ForegroundColor = ConsoleColor.White;
                       Console.WriteLine( welcometo + " Mountains");
-                      Console.WriteLine("");
+                      Console.WriteLine(thepowerof[0][0] + mycolor[1] + manasent);
                       
                       
                       break;
@@ -55,18 +64,24 @@ namespace Dungeon_Adventure
                       Console.BackgroundColor = ConsoleColor.DarkYellow;
                       Console.ForegroundColor = ConsoleColor.White;
                       Console.WriteLine(welcometo + " Plains ");
-                       
-                       break;
+                      //Console.WriteLine(thepowerof[0][0] + thepowerof[0][3] + manasent);
+                      Console.WriteLine(thepowerof[0][0] + mycolor[2] + manasent);
+                      
+                      
+                      break;
                   case "ISLANDS":
                        Console.BackgroundColor = ConsoleColor.DarkBlue;
                            Console.ForegroundColor = ConsoleColor.White;
                        Console.WriteLine(welcometo + " Islands ");
-                     break;
+                       Console.WriteLine(thepowerof[0][0] + mycolor[3] + manasent);
+                       
+                       break;
 
                    case "SWAMPS":
                        Console.BackgroundColor = ConsoleColor.DarkGray;
                        Console.ForegroundColor = ConsoleColor.Black;
                        Console.WriteLine(welcometo + " Swamps ");
+                       Console.WriteLine(thepowerof[0][0] + mycolor[4] + manasent);
                       break;
 
                    default:
