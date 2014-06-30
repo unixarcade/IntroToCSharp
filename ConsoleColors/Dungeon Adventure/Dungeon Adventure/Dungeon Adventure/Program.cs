@@ -14,6 +14,8 @@ namespace Dungeon_Adventure
         static void Main(string[] args)
         {
             string name, yn, adventure;
+            int managoal;
+            managoal = 0;
             Console.Title =" Mindscape Dungeon Adventure ";
             Console.WriteLine(" Welcome Adventurer ");
             Console.WriteLine(" What is your name? ");
@@ -82,7 +84,32 @@ string[] mycolor = {" Green ", "Red", "White", "Blue", " Black "};
                        Console.ForegroundColor = ConsoleColor.Black;
                        Console.WriteLine(welcometo + " Swamps ");
                        Console.WriteLine(thepowerof[0][0] + mycolor[4] + manasent);
-                      break;
+                       
+                       
+                       Console.WriteLine("In the swamp you see a bat do you kill it with your magic yes or no?");
+                      yn = Console.ReadLine();
+                     yn = yn.ToUpper();
+                       if (yn =="YES"){
+                           managoal++;
+                           Console.Write(" You have grown in Dark Power " + " Mana Force: " + managoal);
+                       
+                      
+                       
+                       
+                       }
+                       else
+                       {
+                           Console.WriteLine("You may never grow strong enough to Wield the Dark Power");
+                       }
+                       
+                       if (managoal == 10)
+                       {
+                           Console.WriteLine("You are now the avatar of Black Mana");
+                       }
+                       
+                       
+                       
+                       break;
 
                    default:
                       Console.WriteLine(" I did not hear you correctly. Where did you want to go? ");
