@@ -9,8 +9,15 @@ using System.Threading.Tasks;
 
 namespace Dungeon_Adventure
 {
+
+
     class Program
     {
+
+        static void myexit()
+        {
+            Environment.Exit(0);
+        }
         static void Main(string[] args)
         {
             string name, yn, adventure;
