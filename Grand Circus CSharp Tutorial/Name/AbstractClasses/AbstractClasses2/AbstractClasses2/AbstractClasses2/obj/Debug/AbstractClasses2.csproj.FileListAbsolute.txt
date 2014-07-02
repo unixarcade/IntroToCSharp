@@ -1,0 +1,2 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\AbstractClasses\AbstractClasses2\AbstractClasses2\AbstractClasses2\bin\Debug\AbstractClasses2.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\AbstractClasses\AbstractClasses2\AbstractClasses2\AbstractClasses2\obj\Debug\AbstractClasses2.csprojResolveAssemblyReference.cache

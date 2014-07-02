@@ -1,0 +1,5 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\ForeachArray\ForEachArray\ForEachArray\bin\Debug\ForEachArray.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\ForeachArray\ForEachArray\ForEachArray\bin\Debug\ForEachArray.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\ForeachArray\ForEachArray\ForEachArray\bin\Debug\ForEachArray.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\ForeachArray\ForEachArray\ForEachArray\obj\Debug\ForEachArray.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\ForeachArray\ForEachArray\ForEachArray\obj\Debug\ForEachArray.pdb

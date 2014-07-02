@@ -1,0 +1,5 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Sorting Array\Sorting Array\Sorting Array\bin\Debug\Sorting Array.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Sorting Array\Sorting Array\Sorting Array\bin\Debug\Sorting Array.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Sorting Array\Sorting Array\Sorting Array\bin\Debug\Sorting Array.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Sorting Array\Sorting Array\Sorting Array\obj\Debug\Sorting Array.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Sorting Array\Sorting Array\Sorting Array\obj\Debug\Sorting Array.pdb

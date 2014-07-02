@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\AbstractClasses\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\AbstractClasses\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\AbstractClasses\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\AbstractClasses\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\AbstractClasses\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\AbstractClasses\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.pdb

@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\CarloWorld\CarloWorld\CarloWorld\bin\Debug\CarloWorld.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\CarloWorld\CarloWorld\CarloWorld\bin\Debug\CarloWorld.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\CarloWorld\CarloWorld\CarloWorld\bin\Debug\CarloWorld.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\CarloWorld\CarloWorld\CarloWorld\obj\Debug\CarloWorld.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\CarloWorld\CarloWorld\CarloWorld\obj\Debug\CarloWorld.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\CarloWorld\CarloWorld\CarloWorld\obj\Debug\CarloWorld.pdb
