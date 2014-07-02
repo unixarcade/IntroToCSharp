@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\If\Ifapp\Ifapp\bin\Debug\Ifapp.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\If\Ifapp\Ifapp\bin\Debug\Ifapp.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\If\Ifapp\Ifapp\bin\Debug\Ifapp.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\If\Ifapp\Ifapp\obj\Debug\Ifapp.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\If\Ifapp\Ifapp\obj\Debug\Ifapp.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\If\Ifapp\Ifapp\obj\Debug\Ifapp.pdb

@@ -1,0 +1,5 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Silly Return\SillyReturnValue\SillyReturnValue\bin\Debug\SillyReturnValue.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Silly Return\SillyReturnValue\SillyReturnValue\bin\Debug\SillyReturnValue.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Silly Return\SillyReturnValue\SillyReturnValue\bin\Debug\SillyReturnValue.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Silly Return\SillyReturnValue\SillyReturnValue\obj\Debug\SillyReturnValue.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Silly Return\SillyReturnValue\SillyReturnValue\obj\Debug\SillyReturnValue.pdb

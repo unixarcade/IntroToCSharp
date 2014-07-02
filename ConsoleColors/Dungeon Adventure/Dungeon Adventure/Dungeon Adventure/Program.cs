@@ -18,9 +18,19 @@ namespace Dungeon_Adventure
         {
             Environment.Exit(0);
         }
+
+        static string myYesNo(string yn)
+        {
+            Console.WriteLine(" Yes or No? ");
+            yn = Console.ReadLine();
+            yn = yn.ToUpper();
+            return yn;
+        }
         static void Main(string[] args)
         {
-            string name, yn, adventure;
+
+
+            string name, myYesNoAnswer, adventure;
             int managoal;
             managoal = 0;
             Console.Title =" Mindscape Dungeon Adventure ";
@@ -28,10 +38,11 @@ namespace Dungeon_Adventure
             Console.WriteLine(" What is your name? ");
             name = Console.ReadLine();
             Console.WriteLine(" Would you like to go on an adventure " + name);
-            Console.WriteLine(" Yes or No? ");
-            yn = Console.ReadLine();
-           yn = yn.ToUpper();
-           if (yn == "YES")
+            //Console.WriteLine(" Yes or No? ");
+            //yn = Console.ReadLine();
+           //yn = yn.ToUpper();
+            myYesNoAnswer(myYesNoAnswer);
+            if (myYesNoAnswer == "YES")
            {
                Console.WriteLine(" Then let the adventure begin ");
                Console.WriteLine(" Do you want to go to the Forests, Mountains, Plains, Islands, Swamps? ");
@@ -94,9 +105,10 @@ string[] mycolor = {" Green ", "Red", "White", "Blue", " Black "};
                        
                        
                        Console.WriteLine("In the swamp you see a bat do you kill it with your magic yes or no?");
-                      yn = Console.ReadLine();
-                     yn = yn.ToUpper();
-                       if (yn =="YES"){
+                     // yn = Console.ReadLine();
+                    // yn = yn.ToUpper();
+                       myYesNoAnswer(myYesNoAnswer);
+                    if (myYesNoAnswer =="YES"){
                            managoal++;
                            Console.Write(" You have grown in Dark Power " + " Mana Force: " + managoal);
                        

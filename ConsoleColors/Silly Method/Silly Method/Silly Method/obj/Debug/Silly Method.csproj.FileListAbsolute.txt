@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Silly Method\Silly Method\Silly Method\bin\Debug\Silly Method.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Silly Method\Silly Method\Silly Method\bin\Debug\Silly Method.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Silly Method\Silly Method\Silly Method\bin\Debug\Silly Method.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Silly Method\Silly Method\Silly Method\obj\Debug\Silly Method.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Silly Method\Silly Method\Silly Method\obj\Debug\Silly Method.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Silly Method\Silly Method\Silly Method\obj\Debug\Silly Method.pdb

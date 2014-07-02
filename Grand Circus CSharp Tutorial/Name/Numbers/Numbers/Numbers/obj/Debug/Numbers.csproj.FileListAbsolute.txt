@@ -1,0 +1,5 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Numbers\Numbers\Numbers\bin\Debug\Numbers.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Numbers\Numbers\Numbers\bin\Debug\Numbers.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Numbers\Numbers\Numbers\bin\Debug\Numbers.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Numbers\Numbers\Numbers\obj\Debug\Numbers.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Numbers\Numbers\Numbers\obj\Debug\Numbers.pdb
