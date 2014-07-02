@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Debug\DebugTest\DebugTest\bin\Debug\DebugTest.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Debug\DebugTest\DebugTest\bin\Debug\DebugTest.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Debug\DebugTest\DebugTest\bin\Debug\DebugTest.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Debug\DebugTest\DebugTest\obj\Debug\DebugTest.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Debug\DebugTest\DebugTest\obj\Debug\DebugTest.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Debug\DebugTest\DebugTest\obj\Debug\DebugTest.pdb
