@@ -1,1 +1,6 @@
 C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Debug2\Debug2\Debug2\bin\Debug\Debug2.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Debug2\Debug2\Debug2\bin\Debug\Debug2.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Debug2\Debug2\Debug2\bin\Debug\Debug2.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Debug2\Debug2\Debug2\obj\Debug\Debug2.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Debug2\Debug2\Debug2\obj\Debug\Debug2.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Debug2\Debug2\Debug2\obj\Debug\Debug2.pdb

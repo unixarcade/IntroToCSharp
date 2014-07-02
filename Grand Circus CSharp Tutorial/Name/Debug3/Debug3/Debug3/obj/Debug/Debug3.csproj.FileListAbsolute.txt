@@ -1,0 +1,5 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Debug3\Debug3\Debug3\bin\Debug\Debug3.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Debug3\Debug3\Debug3\bin\Debug\Debug3.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Debug3\Debug3\Debug3\bin\Debug\Debug3.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Debug3\Debug3\Debug3\obj\Debug\Debug3.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Debug3\Debug3\Debug3\obj\Debug\Debug3.pdb

@@ -1,0 +1,5 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Enums\Enums\Enums\bin\Debug\Enums.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Enums\Enums\Enums\bin\Debug\Enums.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Enums\Enums\Enums\bin\Debug\Enums.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Enums\Enums\Enums\obj\Debug\Enums.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Enums\Enums\Enums\obj\Debug\Enums.pdb
