@@ -1,1 +1,6 @@
 C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Loop\Loop\Loop\bin\Debug\Loop.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Loop\Loop\Loop\bin\Debug\Loop.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Loop\Loop\Loop\bin\Debug\Loop.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Loop\Loop\Loop\obj\Debug\Loop.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Loop\Loop\Loop\obj\Debug\Loop.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Loop\Loop\Loop\obj\Debug\Loop.pdb

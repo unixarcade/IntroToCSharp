@@ -1,0 +1,5 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\New folder\Foreach\Foreach\bin\Debug\Foreach.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\New folder\Foreach\Foreach\bin\Debug\Foreach.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\New folder\Foreach\Foreach\bin\Debug\Foreach.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\New folder\Foreach\Foreach\obj\Debug\Foreach.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\New folder\Foreach\Foreach\obj\Debug\Foreach.pdb
