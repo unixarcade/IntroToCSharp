@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\File Handling\File Handling\File Handling\bin\Debug\File Handling.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\File Handling\File Handling\File Handling\bin\Debug\File Handling.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\File Handling\File Handling\File Handling\bin\Debug\File Handling.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\File Handling\File Handling\File Handling\obj\Debug\File Handling.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\File Handling\File Handling\File Handling\obj\Debug\File Handling.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\File Handling\File Handling\File Handling\obj\Debug\File Handling.pdb
