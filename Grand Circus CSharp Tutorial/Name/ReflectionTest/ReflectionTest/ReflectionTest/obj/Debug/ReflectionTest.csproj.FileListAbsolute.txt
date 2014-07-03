@@ -1,0 +1,5 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\ReflectionTest\ReflectionTest\ReflectionTest\bin\Debug\ReflectionTest.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\ReflectionTest\ReflectionTest\ReflectionTest\bin\Debug\ReflectionTest.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\ReflectionTest\ReflectionTest\ReflectionTest\bin\Debug\ReflectionTest.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\ReflectionTest\ReflectionTest\ReflectionTest\obj\Debug\ReflectionTest.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\ReflectionTest\ReflectionTest\ReflectionTest\obj\Debug\ReflectionTest.pdb
