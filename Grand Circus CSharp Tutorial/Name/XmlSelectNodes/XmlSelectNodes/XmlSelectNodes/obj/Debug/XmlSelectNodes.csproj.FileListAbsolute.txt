@@ -1,1 +1,6 @@
 C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\XmlSelectNodes\XmlSelectNodes\XmlSelectNodes\bin\Debug\XmlSelectNodes.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\XmlSelectNodes\XmlSelectNodes\XmlSelectNodes\bin\Debug\XmlSelectNodes.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\XmlSelectNodes\XmlSelectNodes\XmlSelectNodes\bin\Debug\XmlSelectNodes.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\XmlSelectNodes\XmlSelectNodes\XmlSelectNodes\obj\Debug\XmlSelectNodes.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\XmlSelectNodes\XmlSelectNodes\XmlSelectNodes\obj\Debug\XmlSelectNodes.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\XmlSelectNodes\XmlSelectNodes\XmlSelectNodes\obj\Debug\XmlSelectNodes.pdb
