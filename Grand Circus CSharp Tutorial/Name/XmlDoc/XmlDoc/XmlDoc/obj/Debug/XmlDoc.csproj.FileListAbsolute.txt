@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\XmlDoc\XmlDoc\XmlDoc\bin\Debug\XmlDoc.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\XmlDoc\XmlDoc\XmlDoc\bin\Debug\XmlDoc.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\XmlDoc\XmlDoc\XmlDoc\bin\Debug\XmlDoc.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\XmlDoc\XmlDoc\XmlDoc\obj\Debug\XmlDoc.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\XmlDoc\XmlDoc\XmlDoc\obj\Debug\XmlDoc.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\XmlDoc\XmlDoc\XmlDoc\obj\Debug\XmlDoc.pdb
