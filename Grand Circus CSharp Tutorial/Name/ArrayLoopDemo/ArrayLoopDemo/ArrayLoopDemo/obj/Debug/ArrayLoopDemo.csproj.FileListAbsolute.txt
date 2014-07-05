@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\ArrayLoopDemo\ArrayLoopDemo\ArrayLoopDemo\bin\Debug\ArrayLoopDemo.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\ArrayLoopDemo\ArrayLoopDemo\ArrayLoopDemo\bin\Debug\ArrayLoopDemo.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\ArrayLoopDemo\ArrayLoopDemo\ArrayLoopDemo\bin\Debug\ArrayLoopDemo.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\ArrayLoopDemo\ArrayLoopDemo\ArrayLoopDemo\obj\Debug\ArrayLoopDemo.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\ArrayLoopDemo\ArrayLoopDemo\ArrayLoopDemo\obj\Debug\ArrayLoopDemo.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\ArrayLoopDemo\ArrayLoopDemo\ArrayLoopDemo\obj\Debug\ArrayLoopDemo.pdb
