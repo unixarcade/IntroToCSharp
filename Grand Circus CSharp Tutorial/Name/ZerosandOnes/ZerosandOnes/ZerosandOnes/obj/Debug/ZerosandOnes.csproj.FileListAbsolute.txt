@@ -1,0 +1,5 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\ZerosandOnes\ZerosandOnes\ZerosandOnes\bin\Debug\ZerosandOnes.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\ZerosandOnes\ZerosandOnes\ZerosandOnes\bin\Debug\ZerosandOnes.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\ZerosandOnes\ZerosandOnes\ZerosandOnes\bin\Debug\ZerosandOnes.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\ZerosandOnes\ZerosandOnes\ZerosandOnes\obj\Debug\ZerosandOnes.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\ZerosandOnes\ZerosandOnes\ZerosandOnes\obj\Debug\ZerosandOnes.pdb
