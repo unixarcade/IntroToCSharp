@@ -1,0 +1,2 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Account Edit Form\Account Edit Form\Account Edit Form\bin\Debug\Account Edit Form.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\Account Edit Form\Account Edit Form\Account Edit Form\obj\Debug\Account Edit Form.csprojResolveAssemblyReference.cache
