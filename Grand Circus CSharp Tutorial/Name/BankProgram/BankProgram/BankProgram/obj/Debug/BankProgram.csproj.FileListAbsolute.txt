@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\BankProgram\BankProgram\BankProgram\bin\Debug\BankProgram.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\BankProgram\BankProgram\BankProgram\bin\Debug\BankProgram.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\BankProgram\BankProgram\BankProgram\bin\Debug\BankProgram.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\BankProgram\BankProgram\BankProgram\obj\Debug\BankProgram.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\BankProgram\BankProgram\BankProgram\obj\Debug\BankProgram.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Grand Circus CSharp Tutorial\Name\BankProgram\BankProgram\BankProgram\obj\Debug\BankProgram.pdb
