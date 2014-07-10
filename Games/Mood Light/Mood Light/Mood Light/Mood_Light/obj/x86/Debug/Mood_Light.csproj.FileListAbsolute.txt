@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Games\Mood Light\Mood Light\Mood Light\Mood_Light\bin\x86\Debug\Mood_Light.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Games\Mood Light\Mood Light\Mood Light\Mood_Light\bin\x86\Debug\Mood_Light.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Games\Mood Light\Mood Light\Mood Light\Mood_Light\obj\x86\Debug\Mood_Light.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Games\Mood Light\Mood Light\Mood Light\Mood_Light\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Games\Mood Light\Mood Light\Mood Light\Mood_Light\obj\x86\Debug\Mood_Light.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Games\Mood Light\Mood Light\Mood Light\Mood_Light\obj\x86\Debug\Mood_Light.pdb
