@@ -11,7 +11,7 @@ using System.Windows.Forms;
 
 namespace Dungeon_Adventure
 {
-     public static class myform
+     public static class myform : Form
             {
             Form f = new Form();
 
@@ -46,7 +46,7 @@ namespace Dungeon_Adventure
         {
             // Form Source Code
            
-            myform
+           new myform();
             // This Code Should really be in a Class
            //public static myform
            // {
@@ -82,7 +82,7 @@ namespace Dungeon_Adventure
             //Console.WriteLine(" Yes or No? ");
             //yn = Console.ReadLine();
            //yn = yn.ToUpper();
-            var mycode;
+             mycode;
             mycode = myYesNoAnswer();
            
             if (mycode == "YES")
