@@ -49,8 +49,10 @@ namespace Dungeon_Adventure
         static string myYesNo()
         {
             Console.WriteLine(" Yes or No? ");
+
            string  yn = Console.ReadLine();
-           if (yn == "y" || yn == "ye")
+           yn = yn.ToUpper();
+           if (yn=="YES"|| yn == "Y" || yn == "YE")
            {
                yn = "YES";
            }
@@ -58,8 +60,13 @@ namespace Dungeon_Adventure
            {
                yn = "NO";
            }
-            yn = yn.ToUpper();
+           
             return yn;
+        }
+
+        static int mymanagoal(int managoal)
+        {
+            return  managoal;
         }
         static void Main(string[] args)
         {
@@ -93,14 +100,14 @@ namespace Dungeon_Adventure
             string name, adventure;
             int managoal;
             managoal = 0;
+
+            
             Console.Title =" Mindscape Dungeon Adventure ";
             Console.WriteLine(" Welcome Adventurer ");
             Console.WriteLine(" What is your name? ");
             name = Console.ReadLine();
             Console.WriteLine(" Would you like to go on an adventure " + name);
-            //Console.WriteLine(" Yes or No? ");
-            //yn = Console.ReadLine();
-           //yn = yn.ToUpper();
+            
             string mycode;
             mycode = myYesNo();
            
@@ -171,8 +178,9 @@ string[] mycolor = {" Green ", "Red", "White", "Blue", " Black "};
                     // yn = yn.ToUpper();
                      mycode = myYesNo();
                     if (mycode =="YES"){
-                           managoal++;
-                           Console.Write(" You have grown in Dark Power " + " Mana Force: " + managoal);
+                           //managoal++;
+                        mymanagoal(managoal++);  
+                        Console.Write(" You have grown in Dark Power " + " Mana Force: " + mymanagoal(managoal));
                        
                       
                        
