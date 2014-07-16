@@ -11,21 +11,32 @@ using System.Windows.Forms;
 
 namespace Dungeon_Adventure
 {
-     public static class myform : Form
-            {
-            Form f = new Form();
+    //public  class myform 
+    //{
+    //    Form f = new Form();
+    //   private string myformtext {get; set;}
+    //    private string myformtextname() {
+    //         mytext = "  Empty Dungeon Adventure  ";
+    //        return mytext;
+    //}
+        
+    //    private string mytextname{get; set;}
+    //    private string myformtextname(){
 
-            f.Text = "  Empty Dungeon Adventure  ";
-            f.Name = "Empty Dungeon Adventure";
-            Label nameLabel = new Label();
-            nameLabel.AutoSize = true;
-            nameLabel.Text = "Empty Dungeon Adventure";
-            nameLabel.Top = 100;
-            nameLabel.Left = 80;
-            f.Controls.Add(nameLabel);
-            f.ShowDialog();
+           
+    //    }
 
-            }
+    //    f.Text = 
+    //    f.Name = "Empty Dungeon Adventure";
+    //    Label nameLabel = new Label();
+    //    nameLabel.AutoSize = true;
+    //    nameLabel.Text = "Empty Dungeon Adventure";
+    //    nameLabel.Top = 100;
+    //    nameLabel.Left = 80;
+    //    f.Controls.Add(nameLabel);
+    //    f.ShowDialog();
+
+    //}
 
     class Program
     {
@@ -46,7 +57,7 @@ namespace Dungeon_Adventure
         {
             // Form Source Code
            
-           new myform();
+          // new myform();
             // This Code Should really be in a Class
            //public static myform
            // {
@@ -71,7 +82,7 @@ namespace Dungeon_Adventure
 
 
 
-            string name, myYesNoAnswer, adventure;
+            string name, adventure;
             int managoal;
             managoal = 0;
             Console.Title =" Mindscape Dungeon Adventure ";
@@ -82,8 +93,8 @@ namespace Dungeon_Adventure
             //Console.WriteLine(" Yes or No? ");
             //yn = Console.ReadLine();
            //yn = yn.ToUpper();
-             mycode;
-            mycode = myYesNoAnswer();
+            string mycode;
+            mycode = myYesNo();
            
             if (mycode == "YES")
            {
@@ -150,8 +161,8 @@ string[] mycolor = {" Green ", "Red", "White", "Blue", " Black "};
                        Console.WriteLine("In the swamp you see a bat do you kill it with your magic yes or no?");
                      // yn = Console.ReadLine();
                     // yn = yn.ToUpper();
-                       myYesNoAnswer(yn);
-                    if (myYesNoAnswer =="YES"){
+                     mycode = myYesNo();
+                    if (mycode =="YES"){
                            managoal++;
                            Console.Write(" You have grown in Dark Power " + " Mana Force: " + managoal);
                        
