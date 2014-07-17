@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Games\Mood Light 2\Moodlight2\Moodlight2\Moodlight2\bin\x86\Debug\Moodlight2.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Games\Mood Light 2\Moodlight2\Moodlight2\Moodlight2\bin\x86\Debug\Moodlight2.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Games\Mood Light 2\Moodlight2\Moodlight2\Moodlight2\obj\x86\Debug\Moodlight2.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Games\Mood Light 2\Moodlight2\Moodlight2\Moodlight2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Games\Mood Light 2\Moodlight2\Moodlight2\Moodlight2\obj\x86\Debug\Moodlight2.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Games\Mood Light 2\Moodlight2\Moodlight2\Moodlight2\obj\x86\Debug\Moodlight2.pdb

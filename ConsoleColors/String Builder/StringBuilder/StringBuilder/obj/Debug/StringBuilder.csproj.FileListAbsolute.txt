@@ -1,0 +1,1 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\String Builder\StringBuilder\StringBuilder\bin\Debug\StringBuilder.exe.config
