@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{4FC9A128-28EC-4032-B19D-3F2A593E5129}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\For You\Documents\GitHub\IntroToCSharp\Games\Mood Funky\Mood Light 2\Moodlight2\Moodlight2\Moodlight2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\For You\Documents\GitHub\IntroToCSharp\Games\Mood Funky\Mood Light 2\Moodlight2\Moodlight2\Moodlight2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\For You\Documents\GitHub\IntroToCSharp\Games\Mood Funky\Mood Light 2\Moodlight2\Moodlight2\Moodlight2\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\For You\Documents\GitHub\IntroToCSharp\Games\Mood Funky\Mood Light 2\Moodlight2\Moodlight2\Moodlight2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-07-09T12:02:25.1696989-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

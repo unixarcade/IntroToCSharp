@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moodlight2", "Moodlight2\Moodlight2\Moodlight2.csproj", "{D880D043-A70D-4833-BB2A-7C37789FE48D}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Moodlight2Content", "Moodlight2\Moodlight2Content\Moodlight2Content.contentproj", "{4FC9A128-28EC-4032-B19D-3F2A593E5129}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D880D043-A70D-4833-BB2A-7C37789FE48D}.Debug|x86.ActiveCfg = Debug|x86
+		{D880D043-A70D-4833-BB2A-7C37789FE48D}.Debug|x86.Build.0 = Debug|x86
+		{D880D043-A70D-4833-BB2A-7C37789FE48D}.Release|x86.ActiveCfg = Release|x86
+		{D880D043-A70D-4833-BB2A-7C37789FE48D}.Release|x86.Build.0 = Release|x86
+		{4FC9A128-28EC-4032-B19D-3F2A593E5129}.Debug|x86.ActiveCfg = Debug|x86
+		{4FC9A128-28EC-4032-B19D-3F2A593E5129}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
