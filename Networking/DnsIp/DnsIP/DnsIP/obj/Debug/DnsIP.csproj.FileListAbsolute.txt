@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Networking\DnsIp\DnsIP\DnsIP\bin\Debug\DnsIP.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Networking\DnsIp\DnsIP\DnsIP\bin\Debug\DnsIP.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Networking\DnsIp\DnsIP\DnsIP\bin\Debug\DnsIP.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Networking\DnsIp\DnsIP\DnsIP\obj\Debug\DnsIP.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Networking\DnsIp\DnsIP\DnsIP\obj\Debug\DnsIP.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Networking\DnsIp\DnsIP\DnsIP\obj\Debug\DnsIP.pdb
