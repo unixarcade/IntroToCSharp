@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Color_Blaze", "Color Blaze\Color_Blaze\Color_Blaze.csproj", "{80DF84D3-A183-4701-BDFE-3BF2CF738DD9}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Color_BlazeContent", "Color Blaze\Color_BlazeContent\Color_BlazeContent.contentproj", "{AE24FC83-5A4D-4E5D-B233-BB852BD46E60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Xbox 360 = Debug|Xbox 360
+		Release|Xbox 360 = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80DF84D3-A183-4701-BDFE-3BF2CF738DD9}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{80DF84D3-A183-4701-BDFE-3BF2CF738DD9}.Debug|Xbox 360.Build.0 = Debug|Xbox 360
+		{80DF84D3-A183-4701-BDFE-3BF2CF738DD9}.Debug|Xbox 360.Deploy.0 = Debug|Xbox 360
+		{80DF84D3-A183-4701-BDFE-3BF2CF738DD9}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+		{80DF84D3-A183-4701-BDFE-3BF2CF738DD9}.Release|Xbox 360.Build.0 = Release|Xbox 360
+		{80DF84D3-A183-4701-BDFE-3BF2CF738DD9}.Release|Xbox 360.Deploy.0 = Release|Xbox 360
+		{AE24FC83-5A4D-4E5D-B233-BB852BD46E60}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{AE24FC83-5A4D-4E5D-B233-BB852BD46E60}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

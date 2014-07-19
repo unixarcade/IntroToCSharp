@@ -1,0 +1,2 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\StreamWriter\StreamWriter\StreamWriter\bin\Debug\StreamWriter.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\StreamWriter\StreamWriter\StreamWriter\obj\Debug\StreamWriter.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Networking\CardGrab\NicCardGrab\NicCardGrab\bin\Debug\NicCardGrab.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Networking\CardGrab\NicCardGrab\NicCardGrab\bin\Debug\NicCardGrab.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Networking\CardGrab\NicCardGrab\NicCardGrab\bin\Debug\NicCardGrab.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Networking\CardGrab\NicCardGrab\NicCardGrab\obj\Debug\NicCardGrab.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Networking\CardGrab\NicCardGrab\NicCardGrab\obj\Debug\NicCardGrab.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Networking\CardGrab\NicCardGrab\NicCardGrab\obj\Debug\NicCardGrab.pdb

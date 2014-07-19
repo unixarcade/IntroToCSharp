@@ -1,0 +1,5 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\StreamWriter2\StreamWriter2\StreamWriter2\bin\Debug\StreamWriter2.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\StreamWriter2\StreamWriter2\StreamWriter2\bin\Debug\StreamWriter2.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\StreamWriter2\StreamWriter2\StreamWriter2\bin\Debug\StreamWriter2.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\StreamWriter2\StreamWriter2\StreamWriter2\obj\Debug\StreamWriter2.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\StreamWriter2\StreamWriter2\StreamWriter2\obj\Debug\StreamWriter2.pdb
