@@ -1,0 +1,2 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Networking\WmiCardGrab\WmiCardApp\WmiCardApp\bin\Debug\WmiCardApp.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Networking\WmiCardGrab\WmiCardApp\WmiCardApp\obj\Debug\WmiCardApp.csprojResolveAssemblyReference.cache
