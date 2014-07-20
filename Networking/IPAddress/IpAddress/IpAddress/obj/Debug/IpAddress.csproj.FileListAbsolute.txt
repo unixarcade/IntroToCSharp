@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Networking\IPAddress\IpAddress\IpAddress\bin\Debug\IpAddress.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Networking\IPAddress\IpAddress\IpAddress\obj\Debug\IpAddress.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Networking\IPAddress\IpAddress\IpAddress\bin\Debug\IpAddress.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Networking\IPAddress\IpAddress\IpAddress\bin\Debug\IpAddress.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Networking\IPAddress\IpAddress\IpAddress\obj\Debug\IpAddress.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Networking\IPAddress\IpAddress\IpAddress\obj\Debug\IpAddress.pdb
