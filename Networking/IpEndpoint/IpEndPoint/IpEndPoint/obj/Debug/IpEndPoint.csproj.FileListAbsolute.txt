@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Networking\IpEndpoint\IpEndPoint\IpEndPoint\bin\Debug\IpEndPoint.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Networking\IpEndpoint\IpEndPoint\IpEndPoint\bin\Debug\IpEndPoint.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Networking\IpEndpoint\IpEndPoint\IpEndPoint\bin\Debug\IpEndPoint.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Networking\IpEndpoint\IpEndPoint\IpEndPoint\obj\Debug\IpEndPoint.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Networking\IpEndpoint\IpEndPoint\IpEndPoint\obj\Debug\IpEndPoint.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Networking\IpEndpoint\IpEndPoint\IpEndPoint\obj\Debug\IpEndPoint.pdb
