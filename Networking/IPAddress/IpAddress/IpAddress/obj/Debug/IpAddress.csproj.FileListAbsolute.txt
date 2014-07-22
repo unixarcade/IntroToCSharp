@@ -4,3 +4,5 @@ C:\Users\For You\Documents\GitHub\IntroToCSharp\Networking\IPAddress\IpAddress\I
 C:\Users\For You\Documents\GitHub\IntroToCSharp\Networking\IPAddress\IpAddress\IpAddress\bin\Debug\IpAddress.pdb
 C:\Users\For You\Documents\GitHub\IntroToCSharp\Networking\IPAddress\IpAddress\IpAddress\obj\Debug\IpAddress.exe
 C:\Users\For You\Documents\GitHub\IntroToCSharp\Networking\IPAddress\IpAddress\IpAddress\obj\Debug\IpAddress.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Networking\IPAddress\IpAddress\IpAddress\bin\Debug\IpAddress.exe.CodeAnalysisLog.xml
+C:\Users\For You\Documents\GitHub\IntroToCSharp\Networking\IPAddress\IpAddress\IpAddress\bin\Debug\IpAddress.exe.lastcodeanalysissucceeded

@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Letter\Letter\Letter\bin\Debug\Letter.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Letter\Letter\Letter\bin\Debug\Letter.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Letter\Letter\Letter\bin\Debug\Letter.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Letter\Letter\Letter\obj\Debug\Letter.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Letter\Letter\Letter\obj\Debug\Letter.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Letter\Letter\Letter\obj\Debug\Letter.pdb
