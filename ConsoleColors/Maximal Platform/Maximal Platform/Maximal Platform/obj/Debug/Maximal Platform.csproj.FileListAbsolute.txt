@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Maximal Platform\Maximal Platform\Maximal Platform\bin\Debug\Maximal Platform.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Maximal Platform\Maximal Platform\Maximal Platform\bin\Debug\Maximal Platform.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Maximal Platform\Maximal Platform\Maximal Platform\bin\Debug\Maximal Platform.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Maximal Platform\Maximal Platform\Maximal Platform\obj\Debug\Maximal Platform.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Maximal Platform\Maximal Platform\Maximal Platform\obj\Debug\Maximal Platform.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Maximal Platform\Maximal Platform\Maximal Platform\obj\Debug\Maximal Platform.pdb
