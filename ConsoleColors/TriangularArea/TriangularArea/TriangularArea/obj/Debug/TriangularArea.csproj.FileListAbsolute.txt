@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\TriangularArea\TriangularArea\TriangularArea\bin\Debug\TriangularArea.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\TriangularArea\TriangularArea\TriangularArea\bin\Debug\TriangularArea.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\TriangularArea\TriangularArea\TriangularArea\bin\Debug\TriangularArea.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\TriangularArea\TriangularArea\TriangularArea\obj\Debug\TriangularArea.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\TriangularArea\TriangularArea\TriangularArea\obj\Debug\TriangularArea.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\TriangularArea\TriangularArea\TriangularArea\obj\Debug\TriangularArea.pdb

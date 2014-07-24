@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Lucky Numbers\Lucky Numbers\Lucky Numbers\bin\Debug\Lucky Numbers.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Lucky Numbers\Lucky Numbers\Lucky Numbers\bin\Debug\Lucky Numbers.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Lucky Numbers\Lucky Numbers\Lucky Numbers\bin\Debug\Lucky Numbers.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Lucky Numbers\Lucky Numbers\Lucky Numbers\obj\Debug\Lucky Numbers.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Lucky Numbers\Lucky Numbers\Lucky Numbers\obj\Debug\Lucky Numbers.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Lucky Numbers\Lucky Numbers\Lucky Numbers\obj\Debug\Lucky Numbers.pdb
