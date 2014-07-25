@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\PrintLogoMethod\PrintLogo\PrintLogo\bin\Debug\PrintLogo.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\PrintLogoMethod\PrintLogo\PrintLogo\obj\Debug\PrintLogo.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\PrintLogoMethod\PrintLogo\PrintLogo\bin\Debug\PrintLogo.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\PrintLogoMethod\PrintLogo\PrintLogo\bin\Debug\PrintLogo.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\PrintLogoMethod\PrintLogo\PrintLogo\obj\Debug\PrintLogo.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\PrintLogoMethod\PrintLogo\PrintLogo\obj\Debug\PrintLogo.pdb
