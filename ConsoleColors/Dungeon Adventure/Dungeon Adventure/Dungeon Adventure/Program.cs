@@ -11,32 +11,7 @@ using System.Windows.Forms;
 
 namespace Dungeon_Adventure
 {
-    //public  class myform 
-    //{
-    //    Form f = new Form();
-    //   private string myformtext {get; set;}
-    //    private string myformtextname() {
-    //         mytext = "  Empty Dungeon Adventure  ";
-    //        return mytext;
-    //}
-        
-    //    private string mytextname{get; set;}
-    //    private string myformtextname(){
-
-           
-    //    }
-
-    //    f.Text = 
-    //    f.Name = "Empty Dungeon Adventure";
-    //    Label nameLabel = new Label();
-    //    nameLabel.AutoSize = true;
-    //    nameLabel.Text = "Empty Dungeon Adventure";
-    //    nameLabel.Top = 100;
-    //    nameLabel.Left = 80;
-    //    f.Controls.Add(nameLabel);
-    //    f.ShowDialog();
-
-    //}
+    
 
     class Program
     {
@@ -119,10 +94,7 @@ namespace Dungeon_Adventure
                adventure = adventure.ToUpper();
 
               string welcometo = " Welcome to the ";
-              // Array mycolor = ["Green", "Red", "White", "Blue", "Black"];
-              //int colorint = 0;
-              // string thepowerof = " The Power of " + mycolor[] + "Infuses your body." ;
-             // string[][]  thepowerof = new string  [" The Power of "],["Green", "Red", "White", "Blue", "Black"];
+             
               string[][] thepowerof = new string[][]{
 new string[]{" The Power of "},
 new string[]{" Green ", " Red ", " White ", " Blue ", " Black "},
@@ -153,7 +125,7 @@ string[] mycolor = {" Green ", "Red", "White", "Blue", " Black "};
                       Console.BackgroundColor = ConsoleColor.DarkYellow;
                       Console.ForegroundColor = ConsoleColor.White;
                       Console.WriteLine(welcometo + " Plains ");
-                      //Console.WriteLine(thepowerof[0][0] + thepowerof[0][3] + manasent);
+                      
                       Console.WriteLine(thepowerof[0][0] + mycolor[2] + manasent);
                       
                       
@@ -172,24 +144,29 @@ string[] mycolor = {" Green ", "Red", "White", "Blue", " Black "};
                        Console.WriteLine(welcometo + " Swamps ");
                        Console.WriteLine(thepowerof[0][0] + mycolor[4] + manasent);
                        
-                       
+                       // Adventure Choice One
                        Console.WriteLine("In the swamp you see a bat do you kill it with your magic yes or no?");
-                     // yn = Console.ReadLine();
-                    // yn = yn.ToUpper();
                      mycode = myYesNo();
                     if (mycode =="YES"){
                            //managoal++;
                         mymanagoal(managoal++);  
-                        Console.Write(" You have grown in Dark Power " + " Mana Force: " + mymanagoal(managoal));
-                       
-                      
-                       
-                       
+                        Console.Write(" You have grown in Dark Power " + " Mana Force: " + mymanagoal(managoal));                    
                        }
                        else
                        {
                            Console.WriteLine("You may never grow strong enough to Wield the Dark Power");
                        }
+
+                       // Adventure Choice Two
+
+                    if (managoal == 2)
+                    {
+
+                    }
+                    else
+                    {
+                        Console.WriteLine(" The Force of Dark Power is still out of your Grasp.");
+                    }
                        
                        if (managoal == 10)
                        {
