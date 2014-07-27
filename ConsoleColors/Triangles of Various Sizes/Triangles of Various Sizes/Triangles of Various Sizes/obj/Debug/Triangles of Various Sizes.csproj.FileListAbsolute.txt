@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Triangles of Various Sizes\Triangles of Various Sizes\Triangles of Various Sizes\bin\Debug\Triangles of Various Sizes.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Triangles of Various Sizes\Triangles of Various Sizes\Triangles of Various Sizes\bin\Debug\Triangles of Various Sizes.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Triangles of Various Sizes\Triangles of Various Sizes\Triangles of Various Sizes\bin\Debug\Triangles of Various Sizes.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Triangles of Various Sizes\Triangles of Various Sizes\Triangles of Various Sizes\obj\Debug\Triangles of Various Sizes.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Triangles of Various Sizes\Triangles of Various Sizes\Triangles of Various Sizes\obj\Debug\Triangles of Various Sizes.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Triangles of Various Sizes\Triangles of Various Sizes\Triangles of Various Sizes\obj\Debug\Triangles of Various Sizes.pdb
