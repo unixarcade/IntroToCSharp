@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\ModifyArray\ModifyArray\ModifyArray\bin\Debug\ModifyArray.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\ModifyArray\ModifyArray\ModifyArray\bin\Debug\ModifyArray.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\ModifyArray\ModifyArray\ModifyArray\bin\Debug\ModifyArray.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\ModifyArray\ModifyArray\ModifyArray\obj\Debug\ModifyArray.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\ModifyArray\ModifyArray\ModifyArray\obj\Debug\ModifyArray.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\ModifyArray\ModifyArray\ModifyArray\obj\Debug\ModifyArray.pdb
