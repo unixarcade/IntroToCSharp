@@ -76,7 +76,16 @@ namespace Dungeon_Adventure
             int managoal;
             managoal = 0;
 
+
+       // proBlackmana object = new BlackMana.proBlackMana;
             
+       //   proBlackMana;
+
+          
+            BlackMana.myBlackMana();
+            Console.BackgroundColor = ConsoleColor.Black;
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.WriteLine("");
             Console.Title =" Mindscape Dungeon Adventure ";
             Console.WriteLine(" Welcome Adventurer ");
             Console.WriteLine(" What is your name? ");

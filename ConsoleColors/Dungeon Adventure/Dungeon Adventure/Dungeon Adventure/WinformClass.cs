@@ -26,7 +26,10 @@ namespace Dungeon_Adventure
 
         //    f.Text = 
         //    f.Name = "Empty Dungeon Adventure";
-        //    Label nameLabel = new Label();
+        //    
+
+        //private string nameLabel { get; set; }
+        // Label nameLabel = new Label();
         //    nameLabel.AutoSize = true;
         //    nameLabel.Text = "Empty Dungeon Adventure";
         //    nameLabel.Top = 100;
