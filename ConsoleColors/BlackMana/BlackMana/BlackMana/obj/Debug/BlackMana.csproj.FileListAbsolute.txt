@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\BlackMana\BlackMana\BlackMana\bin\Debug\BlackMana.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\BlackMana\BlackMana\BlackMana\obj\Debug\BlackMana.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\BlackMana\BlackMana\BlackMana\bin\Debug\BlackMana.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\BlackMana\BlackMana\BlackMana\bin\Debug\BlackMana.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\BlackMana\BlackMana\BlackMana\obj\Debug\BlackMana.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\BlackMana\BlackMana\BlackMana\obj\Debug\BlackMana.pdb
