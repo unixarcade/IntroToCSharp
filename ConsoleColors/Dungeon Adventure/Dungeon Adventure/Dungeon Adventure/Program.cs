@@ -148,6 +148,9 @@ string[] mycolor = {" Green ", "Red", "White", "Blue", " Black "};
                        break;
 
                    case "SWAMPS":
+
+                       //BlackMana.myBlackMana();
+                       Console.WriteLine(" ");
                        Console.BackgroundColor = ConsoleColor.DarkGray;
                        Console.ForegroundColor = ConsoleColor.Black;
                        Console.WriteLine(welcometo + " Swamps ");
