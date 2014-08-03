@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\RecursiveNestedLoops\RestedNestedLoops\RestedNestedLoops\bin\Debug\RestedNestedLoops.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\RecursiveNestedLoops\RestedNestedLoops\RestedNestedLoops\bin\Debug\RestedNestedLoops.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\RecursiveNestedLoops\RestedNestedLoops\RestedNestedLoops\bin\Debug\RestedNestedLoops.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\RecursiveNestedLoops\RestedNestedLoops\RestedNestedLoops\obj\Debug\RestedNestedLoops.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\RecursiveNestedLoops\RestedNestedLoops\RestedNestedLoops\obj\Debug\RestedNestedLoops.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\RecursiveNestedLoops\RestedNestedLoops\RestedNestedLoops\obj\Debug\RestedNestedLoops.pdb
