@@ -1,0 +1,5 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Recursive Fibonacci\Recursive Fibonacci\Recursive Fibonacci\bin\Debug\Recursive Fibonacci.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Recursive Fibonacci\Recursive Fibonacci\Recursive Fibonacci\bin\Debug\Recursive Fibonacci.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Recursive Fibonacci\Recursive Fibonacci\Recursive Fibonacci\bin\Debug\Recursive Fibonacci.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Recursive Fibonacci\Recursive Fibonacci\Recursive Fibonacci\obj\Debug\Recursive Fibonacci.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Recursive Fibonacci\Recursive Fibonacci\Recursive Fibonacci\obj\Debug\Recursive Fibonacci.pdb
