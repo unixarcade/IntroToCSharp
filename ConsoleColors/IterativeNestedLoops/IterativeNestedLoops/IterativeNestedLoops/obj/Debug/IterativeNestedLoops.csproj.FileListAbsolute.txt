@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\IterativeNestedLoops\IterativeNestedLoops\IterativeNestedLoops\bin\Debug\IterativeNestedLoops.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\IterativeNestedLoops\IterativeNestedLoops\IterativeNestedLoops\bin\Debug\IterativeNestedLoops.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\IterativeNestedLoops\IterativeNestedLoops\IterativeNestedLoops\bin\Debug\IterativeNestedLoops.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\IterativeNestedLoops\IterativeNestedLoops\IterativeNestedLoops\obj\Debug\IterativeNestedLoops.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\IterativeNestedLoops\IterativeNestedLoops\IterativeNestedLoops\obj\Debug\IterativeNestedLoops.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\IterativeNestedLoops\IterativeNestedLoops\IterativeNestedLoops\obj\Debug\IterativeNestedLoops.pdb
