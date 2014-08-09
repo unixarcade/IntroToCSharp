@@ -77,9 +77,7 @@ namespace Dungeon_Adventure
             managoal = 0;
 
 
-       // proBlackmana object = new BlackMana.proBlackMana;
-            
-       //   proBlackMana;
+       
 
           
             BlackMana.myBlackMana();
@@ -115,6 +113,8 @@ string[] mycolor = {" Green ", "Red", "White", "Blue", " Black "};
                {
                    case "FORESTS":
                       // colorint = 0;
+                       Mana.myGreenMana();
+                      Console.WriteLine();
                        Console.BackgroundColor = ConsoleColor.DarkGreen;
                        Console.ForegroundColor = ConsoleColor.White;
                        Console.WriteLine(welcometo +" Forests ");
@@ -123,6 +123,8 @@ string[] mycolor = {" Green ", "Red", "White", "Blue", " Black "};
                       break;
 
                   case "MOUNTAINS":
+                       Mana.myRedMana();
+                      Console.WriteLine();
                       Console.BackgroundColor = ConsoleColor.DarkRed;
                       Console.ForegroundColor = ConsoleColor.White;
                       Console.WriteLine( welcometo + " Mountains");
@@ -131,6 +133,8 @@ string[] mycolor = {" Green ", "Red", "White", "Blue", " Black "};
                       
                       break;
                    case "PLAINS":
+                      Mana.myWhiteMana();
+                      Console.WriteLine();
                       Console.BackgroundColor = ConsoleColor.DarkYellow;
                       Console.ForegroundColor = ConsoleColor.White;
                       Console.WriteLine(welcometo + " Plains ");
@@ -140,6 +144,8 @@ string[] mycolor = {" Green ", "Red", "White", "Blue", " Black "};
                       
                       break;
                   case "ISLANDS":
+                      Mana.myBlueMana();
+                      Console.WriteLine();
                        Console.BackgroundColor = ConsoleColor.DarkBlue;
                            Console.ForegroundColor = ConsoleColor.White;
                        Console.WriteLine(welcometo + " Islands ");
@@ -148,8 +154,8 @@ string[] mycolor = {" Green ", "Red", "White", "Blue", " Black "};
                        break;
 
                    case "SWAMPS":
-
-                       //BlackMana.myBlackMana();
+                       Console.Clear();
+                       BlackMana.myBlackMana();
                        Console.WriteLine(" ");
                        Console.BackgroundColor = ConsoleColor.DarkGray;
                        Console.ForegroundColor = ConsoleColor.Black;
