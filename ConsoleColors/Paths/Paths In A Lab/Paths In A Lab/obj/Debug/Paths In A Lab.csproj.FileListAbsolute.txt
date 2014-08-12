@@ -1,0 +1,2 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Paths\Paths In A Lab\Paths In A Lab\bin\Debug\Paths In A Lab.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Paths\Paths In A Lab\Paths In A Lab\obj\Debug\Paths In A Lab.csprojResolveAssemblyReference.cache

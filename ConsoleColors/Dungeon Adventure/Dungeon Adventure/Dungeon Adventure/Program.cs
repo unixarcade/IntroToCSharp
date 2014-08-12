@@ -41,7 +41,7 @@ namespace Dungeon_Adventure
 
         //static int mymanagoal(int managoal)
         //{
-          
+
         //   int  counter = managoal;
 
         //   return counter;
@@ -172,7 +172,7 @@ new string[]{" Green ", " Red ", " White ", " Blue ", " Black "},
                         {
                             //managoal++;
                             managoal  = 2;
-                            Console.Write(" You have grown in Dark Power  ");
+                            Console.Write("   " + name + " You have grown in Dark Power  ");
                             Console.WriteLine(managoal);
                             
                         }
@@ -195,7 +195,7 @@ new string[]{" Green ", " Red ", " White ", " Blue ", " Black "},
                             {
                                 
                                 managoal++;
-                                Console.Write(" You have grown in Dark Power " + " Mana Force: " + managoal);
+                                Console.Write("   " + name + " You have grown in Dark Power " + " Mana Force: " + managoal);
                                
                             }
                             else
@@ -209,7 +209,8 @@ new string[]{" Green ", " Red ", " White ", " Blue ", " Black "},
                         if (managoal == 3)
                         {
                             Console.Clear();
-                            Console.WriteLine(name + " On the path of this winding road within the swamp you see in the distance a dimly lit cave. ");
+                            Console.WriteLine();
+                            Console.WriteLine("   " + name + " On the path of this winding road within the swamp you see in the distance a dimly lit cave. ");
                             Console.WriteLine();
                             Console.WriteLine("Do you enter");
                             Console.WriteLine();
@@ -237,68 +238,141 @@ new string[]{" Green ", " Red ", " White ", " Blue ", " Black "},
                                     }  else  {
                                     Console.WriteLine(" You leave the cave and the swamp crackling with black mana " + " Mana Force: ");
                                         break;
-                                } 
-                            
-                            
-                            
-                            
+                                }  
                             }
 
-
-
-
-
-
-                        }
-                        else
-                        {
-                            Console.WriteLine(" One Day you may be a master, Adept.");
-                            Console.WriteLine(" Your Mana Force is : " + managoal);
-                            break;
-                        }
-
-                            if (managoal == 10)
+                         
+                            if (managoal == 4)
                             {
-                                Console.WriteLine("You are now the avatar of Black Mana");
-                                break;
+                                Console.Clear();
+                                Console.WriteLine();
+                                Console.WriteLine("   " + name + " On the path of this winding road within the swamp you see in the distance a dimly lit cave. ");
+                                Console.WriteLine();
+                                managoal++;
                             }
-
                             else
                             {
-                                Console.WriteLine(" The Force of Dark Power is still out of your Grasp.");
+                                Console.WriteLine(" You leave the cave and the swamp crackling with black mana " + " Mana Force: ");
                                 break;
                             }
-                            
 
-                           default:
+                            if (managoal == 5)
+                            {
+                                Console.Clear();
+                                Console.WriteLine();
+                                Console.WriteLine("   " + name + " On the path of this winding road within the swamp you see in the distance a dimly lit cave. ");
+                                Console.WriteLine();
+                                managoal++;
+                               
+
+                            }
+                            else
+                            {
+                                Console.WriteLine(" You leave the cave and the swamp crackling with black mana " + " Mana Force: ");
+                                break;
+                            }
+
+
+                            if (managoal == 6)
+                            {
+                                Console.Clear();
+                                Console.WriteLine();
+                                Console.WriteLine("   " + name + " On the path of this winding road within the swamp you see in the distance a dimly lit cave. ");
+                                Console.WriteLine();
+                                managoal++;
+                               
+
+                            }
+                            else
+                            {
+                                Console.WriteLine(" You leave the cave and the swamp crackling with black mana " + " Mana Force: ");
+                                break;
+                            }
+
+
+
+                            if (managoal == 7)
+                            {
+                                Console.Clear();
+                                Console.WriteLine();
+                                Console.WriteLine("   " + name +" On the path of this winding road within the swamp you see in the distance a dimly lit cave. ");
+                                Console.WriteLine();
+                                managoal++;
+                             
+
+                            }
+                            else
+                            {
+                                Console.WriteLine(" You leave the cave and the swamp crackling with black mana " + " Mana Force: ");
+                                break;
+                            }
+
+                            if (managoal == 8)
+                            {
+                                Console.Clear();
+                                Console.WriteLine();
+                                Console.WriteLine("   " + name + " On the path of this winding road within the swamp you see in the distance a dimly lit cave. ");
+                                Console.WriteLine();
+                                managoal++;
+                                
+
+                            }
+                            else
+                            {
+                                Console.WriteLine(" You leave the cave and the swamp crackling with black mana " + " Mana Force: ");
+                                break;
+                            }
+
+                            if (managoal == 9)
+                            {
+                                Console.Clear();
+                                Console.WriteLine();
+                                Console.WriteLine("   " + name + "You have found the sacred heart of the swamp the mox jet. ");
+                                Console.WriteLine();
+                                managoal++;
+                              
+
+                            }
+                            else
+                            {
+                                Console.WriteLine(" You leave the cave and the swamp crackling with black mana " + " Mana Force: ");
+                                break;
+                            }
+
+                    
+                            if (managoal == 10)
+                            {
+                                
+                                //for(int x = 0; x <=10; x++){
+                                //    BlackMana.myBlackMana();
+                                //                           }
+                                Console.WriteLine("You are now the avatar of Black Mana");
+                                break;
+                            
+                            } else {
+                                Console.WriteLine(" The Force of Dark Power is still out of your Grasp.");
+                                break;
+                                   }
+                              default:
                                 Console.WriteLine(" I did not hear you correctly. Where did you want to go? ");
                                 break;
-
-                                
-                    //} 
-                            
-                        }
-
-                   
-                    //else
-                    //{
-                    //    Console.WriteLine("Come again soon.");
-
+                           }
+                          
+ 
 
 
 
 
                     //}
 
-                Console.ReadKey();
+                //Console.ReadKey();
                 }
             }
         }
     }
+    }
 
 
-                
-            
         
 
 
