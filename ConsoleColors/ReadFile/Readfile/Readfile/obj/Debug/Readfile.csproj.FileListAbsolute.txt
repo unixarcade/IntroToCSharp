@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\ReadFile\Readfile\Readfile\bin\Debug\Readfile.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\ReadFile\Readfile\Readfile\bin\Debug\Readfile.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\ReadFile\Readfile\Readfile\bin\Debug\Readfile.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\ReadFile\Readfile\Readfile\obj\Debug\Readfile.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\ReadFile\Readfile\Readfile\obj\Debug\Readfile.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\ReadFile\Readfile\Readfile\obj\Debug\Readfile.pdb
