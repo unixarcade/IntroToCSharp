@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Speech synth\Speech Synth\Speech Synth\bin\Debug\Speech Synth.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Speech synth\Speech Synth\Speech Synth\obj\Debug\Speech Synth.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Speech synth\Speech Synth\Speech Synth\bin\Debug\Speech Synth.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Speech synth\Speech Synth\Speech Synth\bin\Debug\Speech Synth.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Speech synth\Speech Synth\Speech Synth\obj\Debug\Speech Synth.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Speech synth\Speech Synth\Speech Synth\obj\Debug\Speech Synth.pdb
