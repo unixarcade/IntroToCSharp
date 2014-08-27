@@ -21,6 +21,7 @@ namespace Speech_Synth
             using (SpeechSynthesizer synth = new SpeechSynthesizer())
             {
                 synth.Speak("Hello World");
+                synth.Speak("Psychic Arcana");
             }
 
             Console.ReadKey();

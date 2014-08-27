@@ -1,0 +1,6 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Speech synth\Text Position\Text Position\bin\Debug\Text Position.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Speech synth\Text Position\Text Position\obj\Debug\Text Position.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Speech synth\Text Position\Text Position\bin\Debug\Text Position.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Speech synth\Text Position\Text Position\bin\Debug\Text Position.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Speech synth\Text Position\Text Position\obj\Debug\Text Position.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Speech synth\Text Position\Text Position\obj\Debug\Text Position.pdb
