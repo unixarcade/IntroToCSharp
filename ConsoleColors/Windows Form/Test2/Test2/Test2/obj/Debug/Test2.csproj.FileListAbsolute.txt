@@ -1,0 +1,9 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Windows Form\Test2\Test2\Test2\bin\Debug\Test2.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Windows Form\Test2\Test2\Test2\bin\Debug\Test2.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Windows Form\Test2\Test2\Test2\bin\Debug\Test2.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Windows Form\Test2\Test2\Test2\obj\Debug\Test2.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Windows Form\Test2\Test2\Test2\obj\Debug\Test2.Form1.resources
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Windows Form\Test2\Test2\Test2\obj\Debug\Test2.Properties.Resources.resources
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Windows Form\Test2\Test2\Test2\obj\Debug\Test2.csproj.GenerateResource.Cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Windows Form\Test2\Test2\Test2\obj\Debug\Test2.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Windows Form\Test2\Test2\Test2\obj\Debug\Test2.pdb
