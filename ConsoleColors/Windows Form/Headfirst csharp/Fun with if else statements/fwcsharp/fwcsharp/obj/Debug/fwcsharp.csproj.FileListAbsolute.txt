@@ -1,0 +1,9 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Windows Form\Headfirst csharp\Fun with if else statements\fwcsharp\fwcsharp\bin\Debug\fwcsharp.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Windows Form\Headfirst csharp\Fun with if else statements\fwcsharp\fwcsharp\bin\Debug\fwcsharp.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Windows Form\Headfirst csharp\Fun with if else statements\fwcsharp\fwcsharp\bin\Debug\fwcsharp.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Windows Form\Headfirst csharp\Fun with if else statements\fwcsharp\fwcsharp\obj\Debug\fwcsharp.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Windows Form\Headfirst csharp\Fun with if else statements\fwcsharp\fwcsharp\obj\Debug\fwcsharp.Form1.resources
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Windows Form\Headfirst csharp\Fun with if else statements\fwcsharp\fwcsharp\obj\Debug\fwcsharp.Properties.Resources.resources
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Windows Form\Headfirst csharp\Fun with if else statements\fwcsharp\fwcsharp\obj\Debug\fwcsharp.csproj.GenerateResource.Cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Windows Form\Headfirst csharp\Fun with if else statements\fwcsharp\fwcsharp\obj\Debug\fwcsharp.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Windows Form\Headfirst csharp\Fun with if else statements\fwcsharp\fwcsharp\obj\Debug\fwcsharp.pdb
