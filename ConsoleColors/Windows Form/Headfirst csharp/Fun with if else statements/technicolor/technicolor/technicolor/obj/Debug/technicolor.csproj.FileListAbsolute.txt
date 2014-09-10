@@ -1,0 +1,9 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Windows Form\Headfirst csharp\Fun with if else statements\technicolor\technicolor\technicolor\bin\Debug\technicolor.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Windows Form\Headfirst csharp\Fun with if else statements\technicolor\technicolor\technicolor\bin\Debug\technicolor.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Windows Form\Headfirst csharp\Fun with if else statements\technicolor\technicolor\technicolor\bin\Debug\technicolor.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Windows Form\Headfirst csharp\Fun with if else statements\technicolor\technicolor\technicolor\obj\Debug\technicolor.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Windows Form\Headfirst csharp\Fun with if else statements\technicolor\technicolor\technicolor\obj\Debug\technicolor.Form1.resources
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Windows Form\Headfirst csharp\Fun with if else statements\technicolor\technicolor\technicolor\obj\Debug\technicolor.Properties.Resources.resources
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Windows Form\Headfirst csharp\Fun with if else statements\technicolor\technicolor\technicolor\obj\Debug\technicolor.csproj.GenerateResource.Cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Windows Form\Headfirst csharp\Fun with if else statements\technicolor\technicolor\technicolor\obj\Debug\technicolor.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\ConsoleColors\Windows Form\Headfirst csharp\Fun with if else statements\technicolor\technicolor\technicolor\obj\Debug\technicolor.pdb
