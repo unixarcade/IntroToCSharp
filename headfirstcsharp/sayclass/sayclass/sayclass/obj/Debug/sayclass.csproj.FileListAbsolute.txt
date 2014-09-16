@@ -1,0 +1,9 @@
+C:\Users\For You\Documents\GitHub\IntroToCSharp\headfirstcsharp\sayclass\sayclass\sayclass\bin\Debug\sayclass.exe.config
+C:\Users\For You\Documents\GitHub\IntroToCSharp\headfirstcsharp\sayclass\sayclass\sayclass\bin\Debug\sayclass.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\headfirstcsharp\sayclass\sayclass\sayclass\bin\Debug\sayclass.pdb
+C:\Users\For You\Documents\GitHub\IntroToCSharp\headfirstcsharp\sayclass\sayclass\sayclass\obj\Debug\sayclass.csprojResolveAssemblyReference.cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\headfirstcsharp\sayclass\sayclass\sayclass\obj\Debug\sayclass.Form1.resources
+C:\Users\For You\Documents\GitHub\IntroToCSharp\headfirstcsharp\sayclass\sayclass\sayclass\obj\Debug\sayclass.Properties.Resources.resources
+C:\Users\For You\Documents\GitHub\IntroToCSharp\headfirstcsharp\sayclass\sayclass\sayclass\obj\Debug\sayclass.csproj.GenerateResource.Cache
+C:\Users\For You\Documents\GitHub\IntroToCSharp\headfirstcsharp\sayclass\sayclass\sayclass\obj\Debug\sayclass.exe
+C:\Users\For You\Documents\GitHub\IntroToCSharp\headfirstcsharp\sayclass\sayclass\sayclass\obj\Debug\sayclass.pdb
